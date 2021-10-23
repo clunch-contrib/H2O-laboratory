@@ -1,4 +1,5 @@
-# [H2O-laboratory](https://clunch-contrib.github.io/H2O-laboratory/) : 水分子式H2O实验用例，基于image3D开发，用于探索三维几何坐标运算库的最佳实践。
+# [H2O-laboratory](https://clunch-contrib.github.io/H2O-laboratory/) 
+水分子式H2O实验用例，基于[image3D](https://hai2007.gitee.io/image3d/)开发，用于探索[三维几何坐标运算库](https://github.com/clunch-contrib/Three-Geometry)的最佳实践。
 
 ## Issues
 使用的时候遇到任何问题或有好的建议，请点击进入[issue](https://github.com/clunch-contrib/H2O-laboratory/issues)，欢迎参与维护！
