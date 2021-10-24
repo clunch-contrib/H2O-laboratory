@@ -14,6 +14,9 @@ module.exports = {
             test: /\.(css|scss)$/,
             loader: ['./scss-loader.js']
         }, {
+            test: /\.c$/,
+            loader: ['./c-loader.js']
+        }, {
             test: /\.ts$/,
             loader: ['awesome-typescript-loader']
         }, {

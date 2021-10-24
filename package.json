@@ -26,6 +26,6 @@
     "@hai2007/style": "^0.3.0",
     "image3d": "^3.2.4",
     "nefbl": "^0.2.3",
-    "three-geometry": "^0.1.2"
+    "three-geometry": "^1.1.0"
   }
 }
